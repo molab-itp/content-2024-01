@@ -33,7 +33,7 @@ We aim to create distributed instruments for computed expression.
     - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
     - [@ github](https://github.com/mobilelabclass/content)
 - My mobile apps: SiteClone | MedCampus | SongClips | DICECPU | MoGallery
-- [the epvisual team](http://www.johnhenrythompson.com/ep-visual)
+- [the epvisual team](https://jht1493.net/johnhenrythompson/ep-visual.html)
 - [patient 8700804](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8700804)
 
 ## Swift Programming

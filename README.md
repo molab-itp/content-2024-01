@@ -53,33 +53,31 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Dates
 
-09/07/2023 - 12/14/2023
+- 2024-01-22 - 2024-05-06
+- 03:20 PM - 05:50 PM Monday
+- 370 Jay St Room 409 Loc: Brooklyn Campus
 
-Th 9:00AM - 12:00PM
-
-370 Jay St, Room 407 Loc: Brooklyn Campus
-
-| Week | Date     |
-| :--- | :------- |
-| 1.   | 09/07/23 |
-| 2.   | 09/14/23 |
-| 3.   | 09/21/23 |
-| 4.   | 09/28/23 |
-| 5.   | 10/05/23 |
-| 6.   | 10/12/23 |
-| 7.   | 10/19/23 |
-| 8.   | 10/26/23 |
-| 9.   | 11/02/23 |
-| 10.  | 11/09/23 |
-| 11.  | 11/16/23 |
-| ---  | 11/23/23 |
-| 12.  | 11/30/23 |
-| 13.  | 12/07/23 |
-| 14.  | 12/14/23 |
+| Week | Date       |
+| :--- | :--------- |
+| 01.  | 2024-01-22 |
+| 02.  | 2024-01-29 |
+| 03.  | 2024-02-05 |
+| 04.  | 2024-02-12 |
+| 05.  | 2024-02-26 |
+| 06.  | 2024-03-04 |
+| 07.  | 2024-03-11 |
+| --   | 2024-03-18 |
+| 08.  | 2024-03-25 |
+| 09.  | 2024-04-01 |
+| 10.  | 2024-04-08 |
+| 11.  | 2024-04-15 |
+| 12.  | 2024-04-22 |
+| 13.  | 2024-04-29 |
+| 14.  | 2024-05-06 |
 
 ## Extra Support
 
-- [Office hours: Tuesdays 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
+- [Office hours: TBD](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
   - Please book a time slot at least 6 hours before the time slot.
   - For example: if you want to see me for the 1pm time slot, enter the selection before 7am Tuesday morning.
@@ -93,9 +91,9 @@ Th 9:00AM - 12:00PM
 
 ### Grades will be determined according to the following breakdown:
 
-- Regular Assignments 30%
-- Participation and Attendance 30%
-- Final Project 40%
+- Regular Assignments **30%**
+- Participation and Attendance **30%**
+- Final Project **40%**
 
 ## STATEMENT OF ACADEMIC INTEGRITY
 
