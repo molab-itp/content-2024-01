@@ -1,4 +1,4 @@
-# Week 01 Introduction - Mobile App Development Lab 2023 Fall
+# Week 01 Introduction
 
 We aim to create distributed instruments for computed expression.
 
