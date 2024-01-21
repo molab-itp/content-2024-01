@@ -23,10 +23,21 @@ We aim to create distributed instruments for computed expression.
 - Workflow
 - Challenges
 
-## My History
+## App Examples
 
-- My mobile apps: SiteClone | MedCampus | SongClips | DICECPU | MoGallery
+- for MoLab
+
+  - [MoGallery](https://github.com/molab-itp/98-MoGallery)
+
+- DICE Platform
+
+  - [DICECPU](https://johnhenrythompson.com/johnhenrythompson/3-dice.html)
+
+- Other apps
+  SiteClone | MedCampus | SongClips
+
 - [the epvisual team](https://jht1493.net/johnhenrythompson/ep-visual.html)
+
 - [patient 8700804](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8700804)
 
 ## Swift Programming
