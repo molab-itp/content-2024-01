@@ -68,6 +68,8 @@ remove duplicate
 
 ## Homework Week03
 
+Part 1.
+
 - complete any missing work
 
 - continue exploring swift fundatmentals
@@ -88,3 +90,12 @@ remove duplicate
   - [wiki home page week03](https://github.com/molab-itp/content-2024-01/wiki#week-03-homework)
 
 - document your progress and questions on your wiki page
+
+Part 2. (optional) test your Swift skills
+
+- [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
+- works on iPhone iOS and macOS desktops with Apple silicon
+
+Part 3. begin research on your final project
+
+- consult wwdc videos

@@ -167,28 +167,32 @@ Course example repos
 
 ## Homework Week01
 
-- develop a plan to learn swift programming fundamentals over the next 2 weeks. pick an option:
+develop a plan to learn swift programming fundamentals over the next 2 - 3 weeks.
 
-- Option 1:
-  - [the-swift-programming-language/guidedtour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
-  -
-- Option 2:
-  - [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 to 14
-  -
-- Option 3:
+pick an option:
 
-  - [linkedin swift-5-essential-training](https://www.linkedin.com/learning/swift-5-essential-training)
-  -
+Option 1:
 
-- Option 4:
+- [the-swift-programming-language/guidedtour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 
-  - kodeco.com
-  - [swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals)
-  - [swift-functions-types](https://www.kodeco.com/28433240-programming-in-swift-functions-types)
+Option 2:
 
-- start in class
+- [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 to 14
+
+Option 3:
+
+- [linkedin swift-5-essential-training](https://www.linkedin.com/learning/swift-5-essential-training)
+
+Option 4:
+
+- kodeco.com
+- [swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals)
+- [swift-functions-types](https://www.kodeco.com/28433240-programming-in-swift-functions-types)
+
+start in class
 
 - budget 6 to 9 hours for this homework assignment
+
 - depending on your prior coding experience you may need more time or less time
 - focus on completing as much of Part 1 as possible
 <!-- - the goal is to complete up to Day 14 by Week 3 of this course -->
@@ -208,15 +212,6 @@ Part 2. create playground that produces text art
 
 - document issues/errors in comments
 - save source of any errors
-
-Part 3. (optional) test your Swift skills
-
-- [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
-- works on iPhone iOS and macOS desktops with Apple silicon
-
-Part 4. begin research on your final project
-
-- consult wwdc videos
 
 <!--
 - review the Swift resources
