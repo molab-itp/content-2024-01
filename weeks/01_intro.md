@@ -102,7 +102,7 @@ consider doing over the next weeks in parallel with our course. pick one.
 
 - [Git and GitHub for Poets - Dan Shiffman videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
-- [github desktop doc](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
+- [github desktop doc](https://docs.github.com/en/desktop/overview/about-github-desktop)
 
 ## Apple Platform Resources
 

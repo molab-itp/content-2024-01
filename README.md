@@ -75,9 +75,10 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 | 13.  | 2024-04-29 |
 | 14.  | 2024-05-06 |
 
-## Mobile Lab Class Repo
+## Class Resources
 
-- [https://github.com/molab-itp](https://github.com/molab-itp)
+- [class github organization](https://github.com/molab-itp)
+- [class homework wiki](https://github.com/molab-itp/content-2024-01/wiki)
 
 ## Extra Support
 
