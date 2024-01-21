@@ -23,15 +23,8 @@ We aim to create distributed instruments for computed expression.
 - Workflow
 - Challenges
 
-## History
+## My History
 
-- prior versions of the course
-  - [2023-fall molab jht](https://github.com/mobilelabclass-itp/content-2023-Fa)
-  - [2023-spring molab jht](https://github.com/mobilelabclass-itp/content-2023)
-  - [2022-spring molab jht](https://github.com/mobilelabclass-itp/content-2022)
-  - [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
-    - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
-    - [@ github](https://github.com/mobilelabclass/content)
 - My mobile apps: SiteClone | MedCampus | SongClips | DICECPU | MoGallery
 - [the epvisual team](https://jht1493.net/johnhenrythompson/ep-visual.html)
 - [patient 8700804](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8700804)
@@ -163,7 +156,7 @@ Course example repos
 
 - commit and push the updates to your repo
 
-- add a link to your playground on [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
+- add a link to your playground on [wiki home page](https://github.com/molab-itp/content-2024-01/wiki#week-01-homework)
 
 ## Homework Week01
 

@@ -35,6 +35,17 @@ remove duplicate
 
   - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
 
+## UIKit & Storyboard UI
+
+what came before SwiftUI
+
+- https://developer.apple.com/documentation/uikit
+
+  - ios 2.0+
+
+- https://developer.apple.com/documentation/swiftui/
+  - ios 13.0+
+
 ## SwiftUI Apple Resources
 
 - [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~ 55min

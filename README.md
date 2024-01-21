@@ -51,9 +51,8 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 14 -- Final Presentation and Review
 
-## Dates
+## Time | Location | Dates
 
-- 2024-01-22 - 2024-05-06
 - 03:20 PM - 05:50 PM Monday
 - 370 Jay St Room 409 Loc: Brooklyn Campus
 
@@ -100,28 +99,47 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 - Participation and Attendance **30%**
 - Final Project **40%**
 
-## STATEMENT OF ACADEMIC INTEGRITY
+## Communication
 
-Plagiarism is presenting someone else’s work as though it were your own -- More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
+You are responsible for checking your email (or other stated class form of communication) for important updates about class.
 
-## STATEMENT OF PRINCIPLE
+## Statement of Academic Integrity
 
-The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards. For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at https://tisch.nyu.edu/student-affairs/important-resources/tisch-policies-and-handbooks
+Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks or from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else. In the case of code, plagiarism is to present as your own code written by someone else without attribution or citing the source of the code.
 
-## STATEMENT ON ACCESSIBILITY
+Collaboration is highly valued and often necessary to produce great work. Students build their own work on that of other people and giving credit to the creator of the work you are incorporating into your own work is an act of integrity. Plagiarism, on the other hand, is a form of fraud. Proper acknowledgment and correct citation constitute the difference.
 
-Please feel free to make suggestions to your instructor about ways in which this class could become more accessible to you. Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
+[Link to the Tisch Student Handbook](https://tisch.nyu.edu/student-affairs/important-resources/tisch-policies-and-handbooks)
+[Link to Suggested Practices for Syllabus Accessibility Statements](https://docs.google.com/document/d/1RgmYE1-OQYBfMsArLuN6VJa1rIKMVMLE/edit#)
 
-## STATEMENT ON COUNSELING AND WELLNESS
+## Statement of Principle
 
-Your health and safety are a priority at NYU. If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7 NYU Wellness Exchange at 212-443-9999. Also, all students who may require academic accommodation due to a qualified disability, physical or mental, please register with the Moses Center at 212-998-4980. Please let your instructor know if you need help connecting to these resources.
+The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards. For all the details on plagiarism, please refer to page 10 of the [Tisch School of the Arts, Policies and Procedures Handbook](http://students.tisch.nyu.edu/page/home.html).
 
-## STATEMENT ON USE OF ELECTRONIC DEVICES
+## Statement on Accessibility
 
-Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lectures. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+It’s crucial for our community to create and uphold learning environments that empower students of all abilities. We are committed to create an environment that enables open dialogue about the various temporary and long term needs of students and participants for their academic success. We encourage all students and participants to discuss with faculty and staff possible accommodations that would best support their learning. Students may also contact the Moses Center for Student Accessibility (212-998-4980) for resources and support.
 
-## STATEMENT ON TITLE IX
+[Link to the Moses Center for Student Accessibility](https://www.nyu.edu/students/communities-and-groups/student-accessibility.html)
 
-Tisch School of the Arts to dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender. Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: Title IX at NYU.
+## Statement on Counseling and Wellness
 
-# -- End
+Your health and safety are a priority at NYU. Emphasizing the importance of the wellness of each individual within our community, students are encouraged to utilize the resources and support services available to them 24 hours a day, 7 days a week via the NYU Wellness Exchange Hotline at 212-443-9999. Additional support is available over email at wellness.exchange@nyu.edu and within the NYU Wellness Exchange app.
+
+[Link to the NYU Counseling and Wellness Center](https://www.nyu.edu/students/health-and-wellness/services/counseling-services.html)
+
+## Statement on use of Electronic Devices
+
+Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+
+# Previous Years
+
+- [2023-09 molab jht](https://github.com/molab-itp/content-2023-Fa)
+
+- [2023-01 molab jht](https://github.com/molab-itp/content-2023)
+
+- [2022-01 molab jht](https://github.com/molab-itp/content-2022)
+
+- [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
+  - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
+  - [@ github](https://github.com/mobilelabclass/content)
