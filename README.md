@@ -1,4 +1,4 @@
-# content-2024-01 Mobile App Development Lab
+# [content-2024-01 Mobile App Development Lab](https://github.com/molab-itp/content-2024-01)
 
 One of the most transformative consumer products in history, the iPhone remains
 the standard bearer for great design and user experience. With the latest
