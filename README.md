@@ -62,6 +62,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 | 02.  | 2024-01-29 |
 | 03.  | 2024-02-05 |
 | 04.  | 2024-02-12 |
+| ---  | 2024-02-19 |
 | 05.  | 2024-02-26 |
 | 06.  | 2024-03-04 |
 | 07.  | 2024-03-11 |
@@ -81,10 +82,11 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Extra Support
 
-- [Office hours: TBD](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
+- [Office hours: Tuesdays 1:00pm - 5:30pm until March 05](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
-  - Please book a time slot at least 6 hours before the time slot.
-  - For example: if you want to see me for the 1pm time slot, enter the selection before 7am Tuesday morning.
+  - Please book a time slot at least 24 hours before the time slot.
+  - Dates after March 05 to be determined.
+  - email me to arrange for other times.
 
 - [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule)
 - [The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)
@@ -99,9 +101,12 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 - Participation and Attendance **30%**
 - Final Project **40%**
 
+This is an in person class, attendance is required.
+
 ## Communication
 
-You are responsible for checking your email (or other stated class form of communication) for important updates about class.
+You are responsible for checking your email for important updates about class.
+If you cannot make a class due to illness or some other emergency you must notify me as soon as possible before class.
 
 ## Statement of Academic Integrity
 

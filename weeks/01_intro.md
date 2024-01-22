@@ -139,15 +139,25 @@ Course example repos
 
 ## In Class Exercises
 
+### Overview
+
+- Create your class github repo
+- Use xcode to create a playground
+- Post a link to your class work on the homework page.
+
+### Steps
+
 - create a github account if you don't already have one
 
 - email me your github id
 - you will be added to the course molab-itp organization so that you can edit the wiki in the next step
 
+- check for invite to molab-itp organization
+
 - opt-in to public exposure,
   pick your [nom de plume / pen name / pseudonym](https://en.wikipedia.org/wiki/Pen_name)
   for your [student wiki page](https://github.com/molab-itp/content-2024-01/wiki)
-- update your student wiki page and write:
+- add your student wiki page and write:
 
   - what programming languages have you used? how much?
   - what is your favorite mobile app and why?
@@ -159,7 +169,7 @@ Course example repos
   - [01-Javascript-to-Swift](https://github.com/molab-itp/01-Javascript-to-Swift)
   - [01-Playground](https://github.com/molab-itp/01-Playground)
 
-- create a git repo for your work name it **molab-2023-01-yourNickName**
+- create a git repo for your class work, name it **molab-2023-01-yourNickName**
 
   - make sure README.md option is checked
   - add **jht9629-nyu** as a collaborator
@@ -167,6 +177,7 @@ Course example repos
 - add a folder named **Week01** to store this week's work
 
 - use Xcode to create a playground in folder **Week01** of your repo
+- copy one for pages of sample code to your playground
 
 - commit and push the updates to your repo
 
@@ -177,7 +188,7 @@ Course example repos
 start in class
 
 - budget 6 to 9 hours for your homework assignments
-- depending on your prior coding experience you may need more time or less time
+- depending on your prior coding experience you may need less time
 - focus on completing as much of Part 1 - swift fundamentals as possible
 <!-- - the goal is to complete up to Day 14 by Week 3 of this course -->
 - the goal is to complete swift fundatmentals by week 3
@@ -204,12 +215,12 @@ option 4:
 - [swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals)
 - [swift-functions-types](https://www.kodeco.com/28433240-programming-in-swift-functions-types)
 
-Part 1 - begin study of swift fundamentals
+### Part 1 - begin study of swift fundamentals
 
 - for example: do Days 1 to 7 of [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
 - document hours and issues in your wiki page
 
-Part 2 - create a playground that produces text art
+### Part 2 - create a playground that produces text art
 
 - demonstrate use of variables, for-loops, and functions
 - example: [01-Playground generative random](https://github.com/molab-itp/01-Playground/blob/main/01-Playground.playground/Pages/generative%20random.xcplaygroundpage/Contents.swift)
