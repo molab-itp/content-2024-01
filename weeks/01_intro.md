@@ -213,7 +213,7 @@ Part 2 - create a playground that produces text art
 
 - demonstrate use of variables, for-loops, and functions
 - example: [01-Playground generative random](https://github.com/molab-itp/01-Playground/blob/main/01-Playground.playground/Pages/generative%20random.xcplaygroundpage/Contents.swift)
-- store the playground in your classwork repo and update
+- store the playground in your classwork repo in folder Week01 and update the repo
 
 - add a link to your playground on the [wiki home page](https://github.com/molab-itp/content-2024-01/wiki#week-01-homework)
 
