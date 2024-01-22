@@ -149,7 +149,7 @@ Course example repos
 
 - create a github account if you don't already have one
 
-- email me your github id
+- email me your github username
 - you will be added to the course molab-itp organization so that you can edit the wiki in the next step
 
 - check for invite to molab-itp organization
