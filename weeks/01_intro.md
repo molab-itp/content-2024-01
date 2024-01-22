@@ -79,7 +79,7 @@ learn swift programming fundamentals by week 3
   - [swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals)
   - [swift-functions-types](https://www.kodeco.com/28433240-programming-in-swift-functions-types)
 
-- !!@ try out in your own playground
+- recommend you try out swift fundamental code fragments in your own playground
 
 ### Swift Programming Quick Review
 
@@ -139,6 +139,11 @@ Course example repos
 
 ## In Class Exercises
 
+- create a github account if you don't already have one
+
+- email me your github id
+- you will be added to the course molab-itp organization so that you can edit the wiki in the next step
+
 - opt-in to public exposure,
   pick your [nom de plume / pen name / pseudonym](https://en.wikipedia.org/wiki/Pen_name)
   for your [student wiki page](https://github.com/molab-itp/content-2024-01/wiki)
@@ -149,17 +154,15 @@ Course example repos
   - if you have a concept for a final project write a short description
   -
 
-- create a github account if you don't already have one
-
 - use github desktop to clone these repos:
 
   - [01-Javascript-to-Swift](https://github.com/molab-itp/01-Javascript-to-Swift)
   - [01-Playground](https://github.com/molab-itp/01-Playground)
 
-- create a git repo for your work name it **molab-2023-yourNickName**
+- create a git repo for your work name it **molab-2023-01-yourNickName**
 
   - make sure README.md option is checked
-  - add jht9629-nyu as a collaborator
+  - add **jht9629-nyu** as a collaborator
 
 - add a folder named **Week01** to store this week's work
 
@@ -171,48 +174,48 @@ Course example repos
 
 ## Homework Week01
 
+start in class
+
+- budget 6 to 9 hours for your homework assignments
+- depending on your prior coding experience you may need more time or less time
+- focus on completing as much of Part 1 - swift fundamentals as possible
+<!-- - the goal is to complete up to Day 14 by Week 3 of this course -->
+- the goal is to complete swift fundatmentals by week 3
+
 develop a plan to learn swift programming fundamentals over the next 2 - 3 weeks.
 
-pick an option:
+pick an option for learning swift programming fundamentals:
 
-Option 1:
+option 1:
 
 - [the-swift-programming-language/guidedtour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 
-Option 2:
+option 2:
 
-- [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 to 14
+- [Days 1 to 14 of 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
 
-Option 3:
+option 3:
 
 - [linkedin swift-5-essential-training](https://www.linkedin.com/learning/swift-5-essential-training)
 
-Option 4:
+option 4:
 
 - kodeco.com
 - [swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals)
 - [swift-functions-types](https://www.kodeco.com/28433240-programming-in-swift-functions-types)
 
-start in class
-
-- budget 6 to 9 hours for this homework assignment
-
-- depending on your prior coding experience you may need more time or less time
-- focus on completing as much of Part 1 as possible
-<!-- - the goal is to complete up to Day 14 by Week 3 of this course -->
-- the goal is to complete swift fundatmentals by week 3
-
-Part 1. work on swift fundamentals
+Part 1 - begin study of swift fundamentals
 
 - for example: do Days 1 to 7 of [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
 - document hours and issues in your wiki page
 
-Part 2. create playground that produces text art
+Part 2 - create a playground that produces text art
 
 - demonstrate use of variables, for-loops, and functions
+- example: [01-Playground generative random](https://github.com/molab-itp/01-Playground/blob/main/01-Playground.playground/Pages/generative%20random.xcplaygroundpage/Contents.swift)
 - store the playground in your classwork repo and update
 
-- add a link to your playground on the [wiki home page](https://github.com/molab-itp/content-2024-01/wiki/wiki#week-01-homework)
+- add a link to your playground on the [wiki home page](https://github.com/molab-itp/content-2024-01/wiki#week-01-homework)
 
 - document issues/errors in comments
 - save source of any errors
