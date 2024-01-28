@@ -1,9 +1,5 @@
 # Week 02 Swift Programming 2, Anatomy of an iOS App
 
-<!-- ## Review last week -->
-
-<!-- - [01-MoLab-Notes](https://github.com/molab-itp/content-2024-01/blob/main/assets/01-MoLab-Notes.pdf) -->
-
 ## Plan
 
 - review homework & corrections
@@ -14,7 +10,14 @@
 
 - wiki page update
 
-- (optional) clone wiki
+## Resources
+
+- [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
+
+- [docs.swift.org - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
+- [Optional-Binding](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics#Optional-Binding)
+
+### Terminal basics
 
 ```
 # script to clone the class wiki
@@ -24,13 +27,6 @@ cd ~/Documents
 # clone local copy of wiki
 git clone https://github.com/molab-itp/content-2024-01.wiki.git
 ```
-
-- [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
-
-## Resources
-
-- [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
-<!-- - [Apple Swift Docs - for developer](https://developer.apple.com/documentation/swift) -->
 
 ## review
 
@@ -61,7 +57,8 @@ git clone https://github.com/molab-itp/content-2024-01.wiki.git
 
 ## Demos
 
-Building on Apple sample code to create your own app.
+- Intro to Xcode
+- Building on Apple sample code to create your own app.
 
 [Capturing and Displaying Photos](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
 
