@@ -49,6 +49,7 @@ git clone https://github.com/molab-itp/content-2024-01.wiki.git
 - breakout rendering options for unicode and system images
 
   - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
+  - reading the docs
 
 - creating an icon in swiftui in the playground
 
