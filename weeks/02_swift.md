@@ -28,6 +28,19 @@
 cd ~/Documents
 # clone local copy of wiki
 git clone https://github.com/molab-itp/content-2024-01.wiki.git
+
+# basic commands
+
+cd ~
+ls -la
+
+# setup for useful alias
+
+code ~/.zshrc
+alias ll='ls -l -a'
+alias og='open -a /Applications/GitHub\ Desktop.app'
+source ~/.zshrc
+
 ```
 
 ## review
