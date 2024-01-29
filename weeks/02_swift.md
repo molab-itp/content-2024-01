@@ -60,7 +60,12 @@ git clone https://github.com/molab-itp/content-2024-01.wiki.git
 ## Demos
 
 - Intro to Playgrounds and Xcode
-- Building on Apple sample code to create your own app.
+- Building on Apple sample code to create your own app
+
+- [03-About-Me](https://github.com/molab-itp/03-About-Me)
+
+  - https://developer.apple.com/tutorials/sample-apps/aboutme
+  - using SwiftUI to display information across multiple tab views
 
 - [Capturing and Displaying Photos](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
 
