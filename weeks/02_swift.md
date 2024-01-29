@@ -57,20 +57,26 @@ git clone https://github.com/molab-itp/content-2024-01.wiki.git
 
 ## Demos
 
-- Intro to Xcode
+- Intro to Playgrounds and Xcode
 - Building on Apple sample code to create your own app.
 
-[Capturing and Displaying Photos](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
+- [Capturing and Displaying Photos](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
 
-    -  Browsing Your Photos - Apple Tutorial Tutorial
+  - Browsing Your Photos - Apple Tutorial Tutorial
+  - [Uses Playgrounds app](https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12)
 
-[98-CaptureCameraStorage](https://github.com/molab-itp/98-CaptureCameraStorage)
+- [98-CaptureCameraStorage](https://github.com/molab-itp/98-CaptureCameraStorage)
 
-    - Tutorial adapted to Xcode project
+  - Tutorial adapted to Xcode project
+    - build to simulator | device
 
-[98-MoGallery](https://github.com/molab-itp/98-MoGallery)
+- [98-MoGallery](https://github.com/molab-itp/98-MoGallery)
 
-    - MoGallery is a mobile app for students to quickly create their own mobile multi user experiences
+  - MoGallery is a mobile app for students to quickly create their own mobile multi user experiences
+  - public version required firebase config file
+  - private version can be built to access firebase backend
+  - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
+    - build to simulator | device
 
 ## Homework Week02
 
