@@ -80,6 +80,8 @@ git clone https://github.com/molab-itp/content-2024-01.wiki.git
 
 ## Homework Week02
 
+- continue learning Swift programming fundamentals and document your progress on your wiki page
+
 - create a folder named Week02 in your class repo to store this weeks homework
 
 - create an Xcode playground that creates an image using ascii text based on the techniques demonstrated in
