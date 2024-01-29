@@ -49,7 +49,7 @@ git clone https://github.com/molab-itp/content-2024-01.wiki.git
   - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
   - reading the docs
 
-- creating an icon in swiftui in the playground
+- swiftui in the playground - creating an icon
 
   - [02-Icon-Image](https://github.com/molab-itp/02-Icon-Image)
 
