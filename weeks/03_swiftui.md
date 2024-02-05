@@ -134,11 +134,16 @@ Part 2. begin research on your final project
 
 - Lydia Lin
 
-- https://github.com/lydia-lll/ARProject_OperaBand
-- https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
+  - https://github.com/lydia-lll/ARProject_OperaBand
+  - https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
 
 - Adam Jonah
-- https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
-  tuttO - get flirty!
-- https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
-  BIG SIGNAL: SUMMON HELP 1CLICK
+  - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
+    - tuttO - get flirty!
+  - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
+    - BIG SIGNAL: SUMMON HELP 1CLICK
+
+### swift-student-challenge
+
+- https://developer.apple.com/swift-student-challenge/
+  - feb 25 2024 deadline - offer yearly
