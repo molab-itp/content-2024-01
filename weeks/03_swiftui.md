@@ -10,11 +10,11 @@
 
 ## Plan
 
-- MoGallery install
 - review homework
 - questions
 - Xcode tips
 - intro to SwiftUI
+- install sample app on to your phone
 
 ## XCode tips
 
@@ -46,18 +46,9 @@ what came before SwiftUI
 - https://developer.apple.com/documentation/swiftui/
   - ios 13.0+
 
-## SwiftUI Apple Resources
-
-- [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~ 55min
-
-- [](https://developer.apple.com/documentation/swiftui/)
-
-- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) complete up to but not including
-  - [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) end - 4hr 25min Estimated Time
-
-<!-- - [InterfacingWithUIKit.zip](https://docs-assets.developer.apple.com/published/242e2bc4bd32f82ad6c54ca5cd01f222/15600/InterfacingWithUIKit.zip) -->
-
 ## SwiftUI Example Repo
+
+- build to simulator and to your device
 
 - [03-About-Me](https://github.com/molab-itp/03-About-Me)
 
@@ -66,7 +57,7 @@ what came before SwiftUI
   - extract source for Xcode using Finder option "Show Package Contents"
 
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
-
+  - build to your iphone
 - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
 
 - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
@@ -102,11 +93,36 @@ Part 1.
 
 - document your progress and questions on your wiki page
 
-Part 2. (optional) test your Swift skills
+Part 2. begin research on your final project
+
+- consult wwdc videos
+  - [wwdcnotes](https://www.wwdcnotes.com)
+    - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/)
+    - [building an app with SwiftUI](https://www.wwdcnotes.com/notes/wwdc19/216/)
+
+## Resources
+
+- google / chat-G: "hacking with swiftui **topic**"
+
+- [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0/)
+
+### test your Swift skills
 
 - [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
 - works on iPhone iOS and macOS desktops with Apple silicon
 
-Part 3. begin research on your final project
+### SwiftUI App Resources
 
-- consult wwdc videos
+- [apple documentation swiftui](https://developer.apple.com/documentation/swiftui/)
+
+- [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~ 55min
+
+- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) complete up to but not including
+  - [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) end - 4hr 25min Estimated Time
+
+<!-- - [InterfacingWithUIKit.zip](https://docs-assets.developer.apple.com/published/242e2bc4bd32f82ad6c54ca5cd01f222/15600/InterfacingWithUIKit.zip) -->
+
+- [hackingwithswift](https://www.hackingwithswift.com/books/ios-swiftui)
+  - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
+  - project based, select the project(s) that you find interesting
+- [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
