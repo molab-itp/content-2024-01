@@ -146,4 +146,4 @@ Part 2. begin research on your final project
 ### swift-student-challenge
 
 - https://developer.apple.com/swift-student-challenge/
-  - feb 25 2024 deadline - offer yearly
+  - feb 25 2024 deadline - offered yearly
