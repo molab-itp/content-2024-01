@@ -98,9 +98,11 @@ Part 2. begin research on your final project
 - consult wwdc videos
   - [wwdcnotes](https://www.wwdcnotes.com)
     - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/)
-    - [building an app with SwiftUI](https://www.wwdcnotes.com/notes/wwdc19/216/)
+    - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/)
 
 ## Resources
+
+- [Developer App](https://apps.apple.com/us/app/apple-developer/id640199958)
 
 - google / chat-G: "hacking with swiftui **topic**"
 
@@ -125,3 +127,18 @@ Part 2. begin research on your final project
   - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
   - project based, select the project(s) that you find interesting
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
+
+- [swift-student-challenge](https://developer.apple.com/swift-student-challenge/)
+
+### Featured Prior Final Projects
+
+- Lydia Lin
+
+- https://github.com/lydia-lll/ARProject_OperaBand
+- https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
+
+- Adam Jonah
+- https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
+  tuttO - get flirty!
+- https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
+  BIG SIGNAL: SUMMON HELP 1CLICK
