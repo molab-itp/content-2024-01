@@ -117,8 +117,7 @@ Part 2. begin research on your final project
 
 - [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~ 55min
 
-- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) complete up to but not including
-  - [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) end - 4hr 25min Estimated Time
+- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) complete up to but not including [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) - 4hr 25min Estimated Time
 
 <!-- - [InterfacingWithUIKit.zip](https://docs-assets.developer.apple.com/published/242e2bc4bd32f82ad6c54ca5cd01f222/15600/InterfacingWithUIKit.zip) -->
 
