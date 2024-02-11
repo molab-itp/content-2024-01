@@ -16,17 +16,75 @@
 
 - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
 
-## Resources
+- [Week04-Demo](https://github.com/molab-itp/Week04-Demo)
+  - using the asset catalog
+  ```
+  Label("Shape1", image: "Shape1" )
+  ```
+
+## Data modeling
 
 - [SwiftUI docs](https://developer.apple.com/documentation/swiftui)
 
 - [Model data docs](https://developer.apple.com/documentation/swiftui/model-data)
 
-  - Manage the data that your app uses to drive its interface.
+  - Manage the data drive that drives your app interface.
 
 - [Managing user interface state docs](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
 
   - Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
+
+### monitoring-model-data
+
+- [monitoring-model-data](https://developer.apple.com/documentation/swiftui/monitoring-model-data-changes-in-your-app)
+
+#### the basics
+
+- ObservableObject
+- @Published
+- @StateObject
+
+```
+class DataModel: ObservableObject {
+    @Published var name = "Some Name"
+
+    @StateObject private var model = DataModel() // Create the state object.
+```
+
+#### sharing data between views
+
+- environmentObject
+- @EnvironmentObject
+- @ObservedObject
+
+```
+struct BookReaderApp: App {
+    @StateObject private var library = Library()
+    LibraryView()
+        .environmentObject(library)
+
+class Library: ObservableObject {
+    @Published var books: [Book] = [Book(), Book(), Book()]
+
+class Book: ObservableObject, Identifiable {
+    @Published var title = "Sample Book Title"
+
+struct LibraryView: View {
+    @EnvironmentObject var library: Library
+
+struct LibraryView_Previews: PreviewProvider {
+        LibraryView()
+            .environmentObject(Library())
+
+struct BookView: View {
+    @ObservedObject var book: Book
+
+struct BookEditView: View {
+    @ObservedObject var book: Book
+
+```
+
+### App Exampples
 
 - [Days 16-19 of 100 days of swiftui - Starting SwiftUI](https://www.hackingwithswift.com/100/swiftui) Project1 WeSplit Demo App
 
@@ -37,19 +95,28 @@
 
 - [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
-- [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
+  - [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
+
+- [04-SlideShowDemo](https://github.com/molab-itp/04-SlideShowDemo)
+  - audio playback over slide show
 
 ## Homework Week04
 
 - create a Week04 folder for your homework project
 
-- create your own multi-screen SwiftUI app that incorporates time and/or audio playback.
+- create your own SwiftUI app that incorporates time and/or audio playback. the app should have at least two pages
 
 - add a link to your project stored in your Week04 folder on
 
   - [wiki home page week04](https://github.com/molab-itp/content-2024-01/wiki#week-04-homework)
 
 - document your progress and questions on your wiki page
+
+## Warning: data modeling updated for iOS 17
+
+- [iOS 17 data modeling](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
+
+- [Migrating to iOS 17](https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro)
 
 ## Final Project Inspiration and Resources
 
