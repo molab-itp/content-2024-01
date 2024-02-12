@@ -21,6 +21,9 @@
   ```
   Label("Shape1", image: "Shape1" )
   ```
+  - in class exercise:
+    - remix and adapt for dynamic screen size
+    - decode the docs for geometry reader
 
 ## Data modeling
 
