@@ -144,7 +144,11 @@ struct BookEditView: View {
 
 - [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art)
 
-- [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview) - requires Xcode 15
+  - An iOS app that can turn any image into ascii art
+
+- [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview)
+
+  - SwiftUI’s SpriteView lets us render any SKScene subclass right inside SwiftUI
 
 - [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
 
