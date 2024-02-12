@@ -16,16 +16,33 @@
 
 - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
 
-- [Week04-Demo](https://github.com/molab-itp/Week04-Demo)
-  - using the asset catalog
-  ```
-  Label("Shape1", image: "Shape1" )
-  ```
-  - in class exercise:
-    - remix and adapt for dynamic screen size
-    - decode the docs for geometry reader
+## Lab
 
-## Data modeling
+### [Week04-Demo](https://github.com/molab-itp/Week04-Demo)
+
+- using the asset catalog
+
+```
+Label("Shape1", image: "Shape1" )
+```
+
+- in class exercise:
+  - remix and adapt for dynamic screen size
+  - decode the docs for geometry reader
+
+### prune Simulators list
+
+```
+>> Window : Devices and Simulators
+  >> Simulators
+    + To add one from list
+>> Control click to delete
+Prune to 16.4 and 17.2
+
+>> Make sure iOS device selected as target
+```
+
+## data modeling
 
 - [SwiftUI docs](https://developer.apple.com/documentation/swiftui)
 
@@ -115,13 +132,13 @@ struct BookEditView: View {
 
 - document your progress and questions on your wiki page
 
-## Warning: data modeling updated for iOS 17
+# Warning! data modeling updated for iOS 17
 
 - [iOS 17 data modeling](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
 
 - [Migrating to iOS 17](https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro)
 
-## Final Project Inspiration and Resources
+# Final Project Inspiration and Resources
 
 - Possible basis and inspiration for final projects
 
