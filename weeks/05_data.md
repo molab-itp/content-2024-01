@@ -1,6 +1,6 @@
 # Week 05 Local Data 1, Sensors
 
-## Resources
+## Resources -- Review
 
 - [swiftui - documentation](https://developer.apple.com/documentation/swiftui)
 - [swiftui - state-and-data-flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)
@@ -16,17 +16,17 @@
 
 ## Examples Apps
 
+### Device Required
+
+- [05-BubbleLevel](https://github.com/molab-itp/05-BubbleLevel)
+- [05-Seismometer](https://github.com/molab-itp/05-Seismometer)
+
 ### Preview in XCode
 
 - [05-TimerDemo](https://github.com/molab-itp/05-TimerDemo)
 - [05-AppStorageDemo](https://github.com/molab-itp/05-AppStorageDemo)
 - [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
 - [05-Heart-Shapes](https://github.com/molab-itp/05-Heart-Shapes)
-
-### Device Required
-
-- [05-BubbleLevel](https://github.com/molab-itp/05-BubbleLevel)
-- [05-Seismometer](https://github.com/molab-itp/05-Seismometer)
 
 ## In class exercise
 
@@ -35,9 +35,9 @@
   - [05-CustomFont](https://github.com/molab-itp/05-CustomFont)
 
 - build BasicNav
-  - from Build from Page9 03-ImageUiDemo-1-symbols
-  - add 03-UIGraphics-View
-  - add PlayAudioView from 04-Audio-State-Demo
+  - from Build from Page9 [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
+  - add [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
+  - add PlayAudioView from [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
 ## Homework Week05
 
@@ -64,4 +64,5 @@
 - [Augmented Hacking](https://electricsheepdream.notion.site/Augmented-Hacking-b5f033acc43e4820b081b57d211bf03a)
   - Sebastian Buys & Nien Lam
   - Augmented Hacking ITPG-GT 2356 1
+  - [gitrepo](https://github.com/augmentedhacking)
   - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0)
