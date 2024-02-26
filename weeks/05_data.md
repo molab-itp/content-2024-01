@@ -64,5 +64,5 @@
 - [Augmented Hacking](https://electricsheepdream.notion.site/Augmented-Hacking-b5f033acc43e4820b081b57d211bf03a)
   - Sebastian Buys & Nien Lam
   - Augmented Hacking ITPG-GT 2356 1
-  - [gitrepo](https://github.com/augmentedhacking)
+  - [git repo](https://github.com/augmentedhacking)
   - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0)
