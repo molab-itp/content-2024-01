@@ -84,7 +84,7 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 
   - [source repo](https://github.com/FranckNdame/swiftui.builds)
 
-### WWDC Sample Code
+## WWDC Sample Code
 
 Sample code is recommend starting point for exploring what's possible for a final project.
 Download and verify the sample works before investing your time in further research.
@@ -93,3 +93,19 @@ Download and verify the sample works before investing your time in further resea
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
+
+## AudioKit
+
+- [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
+
+```
+
+https://www.youtube.com/watch?v=OoYEYCCJyCA&t=17s
+How to Make a Synth App for iOS with AudioKit | 100 Lines of Code
+
+https://github.com/NickCulbertson/100-Lines-of-Code-AudioKit-Examples
+>> Disable DunneSamplerExample
+>> Check out AppleSamplerExample
+
+
+```
