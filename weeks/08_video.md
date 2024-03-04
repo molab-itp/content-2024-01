@@ -35,13 +35,6 @@
 - analyze add your comments
 - document what you don't know
 
-### JSON saving and loading
-
-- [07-ImageEditDemoJSON](https://github.com/molab-itp/07-ImageEditDemoJSON)
-  - [use-codable-protocol-in-swift](https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/4-use-codable-protocol-in-swift)
-  - Generic functions in SaveLoadJSON.swift
-  - Examine JSON file using Terminal App
-
 ### Photo access
 
 - [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
@@ -117,3 +110,13 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
 - [MVVM with Combine Tutorial for iOS](https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios)
 -->
+
+<!--
+### JSON saving and loading
+
+- [07-ImageEditDemoJSON](https://github.com/molab-itp/07-ImageEditDemoJSON)
+  - [use-codable-protocol-in-swift](https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/4-use-codable-protocol-in-swift)
+  - Generic functions in SaveLoadJSON.swift
+  - Examine JSON file using Terminal App
+
+  -->

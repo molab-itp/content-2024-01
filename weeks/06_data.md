@@ -24,10 +24,19 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 
 - [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
 
+- [06-ImageEditDemoJSON](https://github.com/molab-itp/06-ImageEditDemoJSON/)
+
 - [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
 
 - [06-Voice-Recorder](https://github.com/molab-itp/06-Voice-Recorder)
   - [source repo](https://github.com/pinlunhuang/Voice-Recorder)
+
+### JSON saving and loading
+
+- [06-ImageEditDemoJSON](https://github.com/molab-itp/06-ImageEditDemoJSON)
+  - [use-codable-protocol-in-swift](https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/4-use-codable-protocol-in-swift)
+  - Generic functions in SaveLoadJSON.swift
+  - Examine JSON file using Terminal App
 
 ## Homework Week06
 
@@ -67,3 +76,13 @@ Examples of using data, typically stored as JSON, to describe the navigational l
   "building cool stuff with swiftui"
 
   - [source repo](https://github.com/FranckNdame/swiftui.builds)
+
+### WWDC Sample Code
+
+Sample code is recommend starting point for exploring what's possible for a final project.
+Download and verify the sample works before investing your time in further research.
+
+- [WWDC sample code 2023](https://developer.apple.com/sample-code/wwdc/2023/)
+- [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
+- [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
+- [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
