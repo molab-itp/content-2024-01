@@ -10,7 +10,7 @@
 
 - review demos
 
-### SwiftUI Demos
+## SwiftUI Demos
 
 Examples of using data, typically stored as JSON, to describe the navigational layout of views.
 
@@ -20,7 +20,7 @@ Examples of using data, typically stored as JSON, to describe the navigational l
   - [source repo](https://github.com/twostraws/iDine)
   - [hackingwithswift.com swiftui-tutorial](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
 
-### Saving Data Demos
+## Saving Data Demos
 
 - [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
 
@@ -31,12 +31,19 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 - [06-Voice-Recorder](https://github.com/molab-itp/06-Voice-Recorder)
   - [source repo](https://github.com/pinlunhuang/Voice-Recorder)
 
-### JSON saving and loading
+## JSON saving and loading
 
 - [06-ImageEditDemoJSON](https://github.com/molab-itp/06-ImageEditDemoJSON)
   - [use-codable-protocol-in-swift](https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/4-use-codable-protocol-in-swift)
   - Generic functions in SaveLoadJSON.swift
   - Examine JSON file using Terminal App
+
+## In Class Exercise
+
+- Use the Router model for naviation
+- Based on:
+  - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
+  - renaming and remixing Xcode project | recommended steps
 
 ## Homework Week06
 
