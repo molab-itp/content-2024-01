@@ -82,7 +82,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Extra Support
 
-- [Office hours: Tuesdays 1:00pm - 5:30pm until March 05](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
+- [Office hours: Wednesday 1:00pm - 5:30pm ](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
   - Please book a time slot at least 24 hours before the time slot.
   - Dates after March 05 to be determined.
