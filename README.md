@@ -85,7 +85,6 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 - [Office hours: Wednesday 1:00pm - 5:30pm ](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
   - Please book a time slot at least 24 hours before the time slot.
-  - Dates after March 05 to be determined.
   - email me to arrange for other times.
 
 - [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule)
