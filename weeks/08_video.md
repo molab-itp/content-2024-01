@@ -39,8 +39,10 @@
 ### Photo access
 
 - [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
-
   - analyzing and adjusting filter intensity
+  - uses PhotosPicker and ShareLink iOS 16+
+  - repo branch ImagePicker:
+    - uses ImagePicker: UIViewControllerRepresentable to access UIKit PHPickerViewController
 
 ### Video processing
 
@@ -97,6 +99,15 @@ Sample code is recommend starting point for exploring what's possible for a fina
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
+
+### Augmented Hacking
+
+- [Augmented Hacking](https://electricsheepdream.notion.site/Augmented-Hacking-b5f033acc43e4820b081b57d211bf03a)
+  - Sebastian Buys & Nien Lam
+  - Augmented Hacking ITPG-GT 2356 1
+  - [git repo](https://github.com/augmentedhacking)
+    - https://github.com/augmentedhacking/ar-scene-starter
+  - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0)
 
 <!--
 ### Resources
