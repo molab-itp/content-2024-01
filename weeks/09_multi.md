@@ -91,6 +91,12 @@
 - MakeItSo Firebase Console
   - https://console.firebase.google.com/u/0/project/makeitso-faa35/firestore
 
+## combine-vs-async docs
+
+- https://peterfriese.dev/blog/2022/combine-vs-async/
+  - https://github.com/peterfriese/SwiftUI-Concurrency-Essentials
+- https://peterfriese.dev/blog/2022/firebase-async-calls-swift/
+
 ## Homework Week09
 
 - Prepare first draft of your final project proposal. Ok to entertain more than one initial concept.
