@@ -109,7 +109,7 @@
 
 - Option 2:
 
-  - customize the MoLobby app in
+  - customize the **MoLobby** app in
     - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
     - with your own multi-user experience twist
     - fork the repo and create a branch labeled with your name
