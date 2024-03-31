@@ -69,22 +69,27 @@
 ### Firebase Tutorial - FireCards
 
 - https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui
+
   - Final project updated for current SDK in class private repo
-    - https://github.com/molab-itp/09-FireCards.git
+    - https://github.com/molab-itp/09-FireCards
+
+- FireCards Firebase Console
+  - https://console.firebase.google.com/u/0/project/firecards-77c11/firestore
 
 ### Firebase Tutorial - MakeItSo
 
 - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/
-  - Chapter 1 to chapter 4
-  - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/#building-a-simple-ui
-  - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/#storing-data-in-the-cloud
-  - Final project updated for current SDK in class private repo
-    - https://github.com/molab-itp/09-MakeItSo.git
 
-<!-- - https://www.kodeco.com/21133526-firebase-tutorial-getting-started
-- https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat
-- https://www.kodeco.com/4203-beginning-firebase
-!!@ Review for next class -->
+  - Chapter 1 to chapter 4
+    - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/#building-a-simple-ui
+    - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/#storing-data-in-the-cloud
+  - Skip
+    - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/02-developing-locally-with-the-emulator-suite
+  - Final project updated for current SDK in class private repo
+    - https://github.com/molab-itp/09-MakeItSo
+
+- MakeItSo Firebase Console
+  - https://console.firebase.google.com/u/0/project/makeitso-faa35/firestore
 
 ## Homework Week09
 
@@ -132,3 +137,8 @@
 - [Puppy adoption app](https://github.com/molab-itp/06-Wiggles-iOS) 06-Wiggles-iOS
 - [iDine app](https://github.com/molab-itp/iDine) 06-iDine
   - Reference: [hackingwithswift.com swiftui-tutorial-building-a-complete-project](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project) -->
+
+<!-- - https://www.kodeco.com/21133526-firebase-tutorial-getting-started
+- https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat
+- https://www.kodeco.com/4203-beginning-firebase
+!!@ Review for next class -->
