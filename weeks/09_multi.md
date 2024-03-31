@@ -12,12 +12,9 @@
 
 - saving data local on the device and remotely in the cloud
 
-## Review - data modeling
+## Review - tracking time
 
-- @State and class Model: ObservableObject
-- Kennon's example
-  - https://github.com/kgcummings/kennon-c-molab-2023/tree/jht-state
-  - https://github.com/kgcummings/kennon-c-molab-2023/tree/jht-model
+- [Slide Show Delay](https://github.com/molab-itp/09-SlideShowDelay)
 
 ## Map Demo Apps
 
@@ -27,8 +24,7 @@
 
 - [09-Bucketlist](https://github.com/molab-itp/09-Bucketlist)
 
-  - TODO: disable auth
-  - TODO: add list view
+  - Saves data to local Documents folder as SavedPlaces JSON file
 
 ### Saving Data - Local
 
@@ -63,23 +59,32 @@
 
 ## Firebase Resources
 
-### Docs
+### Firebase Offical Docs
 
 - https://firebase.google.com/docs/auth
 - https://firebase.google.com/docs/database
 - https://firebase.google.com/docs/firestore
 - https://firebase.google.com/docs/storage
 
-### Firebase Tutorials
+### Firebase Tutorial - FireCards
 
-<!-- - https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui
-- https://www.kodeco.com/21133526-firebase-tutorial-getting-started
+- https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui
+  - Final project updated for current SDK in class private repo
+    - https://github.com/molab-itp/09-FireCards.git
+
+### Firebase Tutorial - MakeItSo
+
+- https://peterfriese.github.io/MakeItSo/tutorials/makeitso/
+  - Chapter 1 to chapter 4
+  - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/#building-a-simple-ui
+  - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/#storing-data-in-the-cloud
+  - Final project updated for current SDK in class private repo
+    - https://github.com/molab-itp/09-MakeItSo.git
+
+<!-- - https://www.kodeco.com/21133526-firebase-tutorial-getting-started
 - https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat
 - https://www.kodeco.com/4203-beginning-firebase
-
-!!@ Review for next class
-
- -->
+!!@ Review for next class -->
 
 ## Homework Week09
 
@@ -88,6 +93,8 @@
 - Option 1:
 
   - setup a firebase project and build one of the firebase tutorial apps
+    - FireCards
+    - MakeItSo
 
 - Option 2:
 
