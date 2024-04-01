@@ -8,9 +8,9 @@
 
 - summarize your challenges (and progress) on your wiki page
 
-- break
-
 - saving data local on the device and remotely in the cloud
+
+- Testflight update of MoGallery confirm - post an image
 
 ## Review - tracking time
 
