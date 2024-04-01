@@ -26,7 +26,7 @@
 
   - Saves data to local Documents folder as SavedPlaces JSON file
 
-### Saving Data - Local
+## Saving Data - Local
 
 - [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
 
@@ -34,10 +34,14 @@
 
 - [07-ImageEditDemoJSON](https://github.com/molab-itp/07-ImageEditDemoJSON)
 
-### Saving Data - Cloud
+## Saving Data - Cloud
 
 - [09-ChipsSaveCloud](https://github.com/molab-itp/09-ChipsSaveCloud)
   - in private class repo
+
+## The big picture
+
+- [Firebase Fundamentals video](https://www.youtube.com/watch?v=p9pgI3Mg-So&list=PLl-K7zZEsYLnfwBe4WgEw9ao0J0N1LYDR&index=7)
 
 ## MoGallery App
 
@@ -50,6 +54,11 @@
 - [98-MoGallery](https://github.com/molab-itp/98-MoGallery)
   - public repo, no GoogleService-Info.plist
   - must create your own [firebase project - a container for you app](https://firebase.google.com/)
+
+## MoGallery cloud data
+
+- [firebase realtime database](https://console.firebase.google.com/u/0/project/molab-485f5/database/molab-485f5-default-rtdb/data/~2Fmo-1)
+- [firebase storage](https://console.firebase.google.com/u/0/project/molab-485f5/storage/molab-485f5.appspot.com/files/~2F-mo~2Fmo-1)
 
 ## Re-using Example Code
 
