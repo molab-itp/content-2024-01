@@ -102,6 +102,8 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 This is an in person class, attendance is required.
 
+- [itp class attendance policy](https://itp.nyu.edu/help/itp-ima-class-attendance-policy/)
+
 ## Communication
 
 You are responsible for checking your email for important updates about class.
