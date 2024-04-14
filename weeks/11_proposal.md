@@ -38,9 +38,11 @@
 
 - exploration process and workflow
 
-  - workflow Swift in other environs
+  - Swift workflow in other environs
+    - mobile, desktop, server
+    - app | CLI tool (command-line-interface)
   - svg -- yet another web language
-  - using Swift for preparing assets in the command line
+  - using Swift for preparing assets via CLI tool
 
 ## Questions
 
