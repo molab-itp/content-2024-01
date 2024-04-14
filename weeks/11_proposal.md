@@ -8,11 +8,11 @@
 
   - progress | problems| plans | questions
 
-## Swift language creation
+## Swift language creation and evolution
 
 - [Chris_Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)
 
-  - key person behind the creation and evolution of Swift language
+  - key person behind the creation and evolution of the Swift language
   - current project: https://www.modular.com/
 
 ## Resources
