@@ -13,7 +13,7 @@
 - [Chris_Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)
 
   - key person behind the creation and evolution of Swift language
-  - https://www.modular.com/
+  - current project: https://www.modular.com/
 
 ## Resources
 
@@ -23,23 +23,20 @@
 
 ### exploration flow examples
 
-#### a-repos/HitTestApp
+- a-repos/HitTestApp
+  -- SwiftUI Scenekit hit testing example.
 
-- SwiftUI Scenekit hit testing example.
+- a-repos/iOS3DModelViewer
+  -- Integrating SceneKit coupled with a storyboard into SwiftUI
 
-#### a-repos/iOS3DModelViewer
-
-- Integrating SceneKit coupled with a storyboard into SwiftUI
-
-#### a-repos/SwiftGlobe
-
-- An interactive 3D globe in SceneKit for iOS, watchOS, tvOS, and MacOS X.
+- a-repos/SwiftGlobe
+  -- An interactive 3D globe in SceneKit for iOS, watchOS, tvOS, and MacOS X.
 
 ### EarthFlags - Origin Story
 
 - EarthFlags/EarthFlags.xcodeproj
 
-- workflow
+- exploration process and workflow
 
   - workflow Swift in other environs
   - svg -- yet another web language
