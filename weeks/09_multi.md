@@ -41,7 +41,9 @@
 
 ## The big picture
 
-- [Firebase Fundamentals video](https://www.youtube.com/watch?v=p9pgI3Mg-So&list=PLl-K7zZEsYLnfwBe4WgEw9ao0J0N1LYDR&index=7)
+- [Firebase Fundamentals video](https://www.youtube.com/watch?v=p9pgI3Mg-So&list=PLl-K7zZEsYLnfwBe4WgEw9ao0J0N1LYDR&index=7) ~40 minutes
+
+- [Getting started with the Firebase Realtime Database on the web](https://www.youtube.com/watch?v=pP7quzFmWBY) ~11 minutes
 
 ## MoGallery App
 
