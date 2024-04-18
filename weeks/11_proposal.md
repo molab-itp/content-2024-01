@@ -54,7 +54,10 @@
     - note how and put a link in your wiki page
 - be prepared to present and discuss
 - update your wiki page
+
   - progress | problems| plans | questions
+
+- [wiki home page week11](https://github.com/molab-itp/content-2024-01/wiki#week-11-homework)
 
 <!--
 - [review Bucketlist branch: list](https://github.com/molab-itp/09-Bucketlist.git)
